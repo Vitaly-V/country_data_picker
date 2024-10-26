@@ -1,5 +1,5 @@
 name: country_data_picker
-description: "A new Flutter plugin project."
+description: "A Flutter package that provides for country selection with built-in SVG flags, dial codes, and ISO codes."
 version: 0.0.1
 repository: 'https://github.com/Vitaly-V/country_data_picker'
 
