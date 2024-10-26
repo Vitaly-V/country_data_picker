@@ -2,12 +2,12 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 @immutable
-class Country {
+class CountryData {
   final String name;
   final String isoCode;
   final String dialCode;
 
-  const Country({
+  const CountryData({
     required this.name,
     required this.isoCode,
     required this.dialCode,
