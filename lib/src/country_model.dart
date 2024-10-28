@@ -19,7 +19,7 @@ class CountryData {
         height: 24,
       );
 
-  SvgPicture flagSized([size = 24]) => SvgPicture.asset(
+  SvgPicture flagSized([double size = 24]) => SvgPicture.asset(
         'packages/country_data_picker/assets/flags/$isoCode.svg',
         width: size,
         height: size,
