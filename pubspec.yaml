@@ -1,6 +1,6 @@
 name: country_data_picker
 description: "A Flutter package that provides for country selection with built-in SVG flags, dial codes, and ISO codes."
-version: 0.0.4
+version: 0.0.5
 repository: 'https://github.com/Vitaly-V/country_data_picker'
 
 environment:
@@ -10,7 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  plugin_platform_interface: ^2.1.8
   flutter_svg: ^2.0.10
 
 dev_dependencies:
